@@ -3,3 +3,8 @@ library(drake)
 library(rotl)
 
 library(rgbif)
+library(raster)
+library(tidyverse)
+library(ggmap)
+library(sf)
+library(mapview)
